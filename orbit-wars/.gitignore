@@ -1,0 +1,13 @@
+# Virtual Environment folders
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# Python Cache
+__pycache__/
+
+# Generated HTML Replays
+*.html
